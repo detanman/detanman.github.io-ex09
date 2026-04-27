@@ -17,7 +17,7 @@ Our idea for this analysis is that the course should not allow students who have
 
 ## Figure 2:
 
-<img src="{{ site.baseurl }}/static/imgs/Figure2.png" alt="Figure 2. "  width="500"/>
+<img src="static/imgs/figure2.png" alt="Figure 2. "  width="500"/>
 
 <span style="color:pink ">**Figure 2: Distribution of Pace Scores of Students Who Have Taken a UNC COMP Course Prior to COMP 110 Compared to Students Who Have Not** </span>
 
@@ -25,7 +25,7 @@ Our idea for this analysis is that the course should not allow students who have
 
 ## Figure 3:
 
-<img src="{{ site.baseurl }}/static/imgs/Figure3.png" alt="Figure 3. "  width="500"/>
+<img src="static/imgs/figure3.png" alt="Figure 3. "  width="500"/>
 <span style="color:pink ">**Figure 3: Distribution of Prior Formal Computer Science Experience** </span>
 
 *This figure shows how many students actually have prior formal computer science experience. In this analysis, we are defining formal experience as an instructional course that is IB, AP, online, or taught by a community college. While taking the survey, students could respond to the question about prior experience with any of 6 options: `UNC`, `Another college or community college`, `High school course (IB or other)`, `On-line course`, `Other`, or `None`. These are the possible values for `other_comp`. There were two additional questions about if students had taken AP Computer Science Principles or AP Computer Science A. The possible values for these questions in the data are `Yes` and `No`. Figure 3 is a critial visual for this analysis because it highlights why Figure 2 does not support our hypothesis. Clearly, there are many students in COMP 110 that have had formal computer science experience.*
