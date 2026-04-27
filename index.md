@@ -7,9 +7,9 @@ layout: default
 ## Idea for Analysis:
 Our idea for this analysis is that the course should not allow students who have completed a previous UNC COMP classes to enroll in this class because they have already learned much of the information taught in this course. This will make space for other students to be able to enroll in COMP 110. We chose this idea because students who have taken a COMP class at UNC already will be learning the same information again. We can analyze this idea with available data because the survey asks the student if they have taken a COMP course at UNC before. Therefore, we can see which students have taken a previous COMP course. To determine if students find this course easier, we can look at their average difficulty and pace scores. We believe this idea is valulable because all students in the class would be on a more level playing field as no one would have experienced a COMP class at UNC before enrolling in the class. The curves would be more fair as students who have already learned the information would not be in the class and would not have their advantage of previous knowledge. It would be a simple change for improvement because during class registration, students who have a previous COMP class at UNC in their transcript would not be able to register for the class.
 
-## Figure 1:
+## Figure 1: 
 
-<img src="{{ site.baseurl }}/static/imgs/Figure1.png" alt="Figure 1. "  width="500"/>
+<img src="static/imgs/figure1.png" alt="Figure 1. "  width="500"/>
 
 <span style="color:pink ">**Figure 1: Distribution of Difficulty Scores of Students Who Have Taken a UNC COMP Course Before and Students Who Have Not Taken a Previous UNC COMP Class.** </span>
 
